@@ -1,0 +1,25 @@
+
+body {
+    height: 1500px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: purple;
+    position: fixed;
+    cursor: pointer;
+    z-index: 100;
+    bottom: 30px;
+    width: 100%;
+}
+
+.contact-butt {
+    height: 50px;
+    height: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
