@@ -6,17 +6,19 @@ body {
 
 .container {
     display: flex;
-    justify-content: space-evenly;
-    background-color: purple;
+    justify-content: space-around;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGa0yw4HprwWHX0Q5g9JGEtmyLVK1iHsENA&usqp=CAU");
+    color: white;
     position: fixed;
     cursor: pointer;
     z-index: 100;
     bottom: 30px;
-    width: 100%;
+    left: 10%;
+    width: 80%;
 }
 
 .contact-butt {
-    height: 50px;
+    width: 100px;
     height: 50px;
     margin-top: auto;
     margin-bottom: auto;
